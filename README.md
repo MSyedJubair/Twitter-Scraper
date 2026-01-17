@@ -1,6 +1,7 @@
 # 🔍 Twitter (X) Scraper
 
 A high-performance web scraper for harvesting tweet data from X (formerly Twitter) using Playwright. This is a project of one of my client. Actually thoughout the project I had to make different versions according to the client's need. You can choose your own version with sync, async, or GUI-based scraping!
+![GUI Screenshot](./Images/GUI.png)
 
 ---
 
